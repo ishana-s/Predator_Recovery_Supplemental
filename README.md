@@ -68,7 +68,7 @@ Region: State/ province/ region where the reintroduction took place
 
 Absence: The number of years in which the predator was locally extirpated 
 
-Community Response: The category of significant community change caused by keystone absence/ decreased presence
+Community Response: The category of significant community change caused by predator absence/ decreased presence
 
 Log_gpd: the GDP (gross domestic product) of where the recovery took place, logarithmically standardized
 
