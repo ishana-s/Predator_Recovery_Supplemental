@@ -64,7 +64,7 @@ Lat: Latitude of the recovery site
 
 Long: Longitude of the recovery site
 
-Region: State/ province/ region where the reintroduction took place
+Region: State/ province/ region where the recovery took place
 
 Absence: The number of years in which the predator was locally extirpated 
 
