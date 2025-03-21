@@ -10,7 +10,7 @@ Shukla et al. README.txt -- This file, including a description of variables.
 
 Recovered_predators_dataset.csv -- A data file that includes the full list of community responses elicited by recovered predators
 
-predator_recovery_code.R -- supplementary code of the generalized mixed linear model analysis, ordinal regression, and visualization for keystone trait diversity
+predator_recovery_code.R -- supplementary code of the generalized mixed linear model analysis, ordinal regression, and visualization for community response to predator recovery
 
 #######################################################################################
 
